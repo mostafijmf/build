@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e145b0d7.css",
-    "main.js": "/static/js/main.d8164ffe.js",
+    "main.css": "/static/css/main.620a8853.css",
+    "main.js": "/static/js/main.17d81e72.js",
+    "static/media/about-banner.jpg": "/static/media/about-banner.cb7d442442a3d6d44b84.jpg",
+    "static/media/about.png": "/static/media/about.d5c6bdf6b0488c27726d.png",
     "static/media/reset-password.png": "/static/media/reset-password.98d5d953690b084c7042.png",
     "static/media/email.png": "/static/media/email.71b4bbb6b13477b7b4a7.png",
+    "static/media/technical-support.png": "/static/media/technical-support.5d40914feab47523c4bd.png",
+    "static/media/award.png": "/static/media/award.0d82f15d65013690c15a.png",
     "index.html": "/index.html",
-    "static/media/twitter.svg": "/static/media/twitter.dd3c8b59f9353fb016e2aeb2035c77dd.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.a9f0c310a517425f2c8eeda50e545b9c.svg",
-    "static/media/facebook.svg": "/static/media/facebook.9f140aae6dedce9bac36414cd5ac5c11.svg",
-    "main.e145b0d7.css.map": "/static/css/main.e145b0d7.css.map",
-    "main.d8164ffe.js.map": "/static/js/main.d8164ffe.js.map"
+    "main.620a8853.css.map": "/static/css/main.620a8853.css.map",
+    "main.17d81e72.js.map": "/static/js/main.17d81e72.js.map"
   },
   "entrypoints": [
-    "static/css/main.e145b0d7.css",
-    "static/js/main.d8164ffe.js"
+    "static/css/main.620a8853.css",
+    "static/js/main.17d81e72.js"
   ]
 }
